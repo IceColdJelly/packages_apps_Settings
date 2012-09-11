@@ -1728,6 +1728,9 @@
     <!-- [CHAR LIMIT=40] Sound & display settings screen, title of dialog for picking font size -->
     <string name="dialog_title_font_size">Font size</string>
 
+    <string name="title_use_bln">Use BLN</string>
+    <string name="summary_use_bln"><b>B</b>utton<b>L</b>ight<b>N</b>otification, turn on softkeys in new notification; slightly more power in standby</string>
+
     <!-- SIM lock settings title -->
     <string name="sim_lock_settings">SIM card lock settings</string>
     <!-- Security & location settings screen, setting option name -->
