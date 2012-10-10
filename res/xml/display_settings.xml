@@ -64,4 +64,9 @@
             android:title="@string/notification_pulse_title"
             android:persistent="false" />
 
+        <PreferenceScreen
+            android:key="hardware_keys"
+            android:fragment="com.android.settings.HardwareKeys"
+            android:title="@string/hardware_keys_title" />
+
 </PreferenceScreen>
