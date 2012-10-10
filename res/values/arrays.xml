@@ -338,7 +338,23 @@
         <item>Unsuccessful</item>
         <item>Available</item>
         <item>Out-of-range</item>
-   </string-array>
+    </string-array>
+
+    <!-- WiFi sleep idle timeout (turn off after this period) -->
+    <string-array name="wifi_idle_mn_entries" translatable="false">
+        <item>@string/wifi_idle_5mn</item>
+        <item>@string/wifi_idle_15mn</item>
+        <item>@string/wifi_idle_30mn</item>
+        <item>@string/wifi_idle_1h</item>
+        <item>@string/wifi_idle_3h</item>
+    </string-array>
+    <string-array name="wifi_idle_mn_values" translatable="false">
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+    </string-array>
 
 
     <!-- Bluetooth Settings -->
@@ -894,14 +910,6 @@
         <item>70</item>
         <item>80</item>
         <item>90</item>
-    </string-array>
-
-    <string-array name="location_entries_gps_source">
-        <item>Use Internal GPS</item>
-    </string-array>
-
-    <string-array name="location_values_gps_source" translatable="false">
-        <item>0</item>
     </string-array>
 
     <!--- Volume key cursor control -->
