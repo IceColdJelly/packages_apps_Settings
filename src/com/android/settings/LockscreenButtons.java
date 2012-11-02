@@ -103,12 +103,6 @@ public class LockscreenButtons extends SettingsPreferenceFragment
                     newEntries.add(oldEntries[i].toString());
                     newValues.add(oldValues[i].toString());
                 }
-                newEntries.add(getString(R.string.lockscreen_buttons_flashlight));
-                newValues.add("FLASHLIGHT");
-                pref.setEntries(
-                        newEntries.toArray(new CharSequence[newEntries.size()]));
-                pref.setEntryValues(
-                        newValues.toArray(new CharSequence[newValues.size()]));
             pref.setOnPreferenceChangeListener(this);
         }
     }
