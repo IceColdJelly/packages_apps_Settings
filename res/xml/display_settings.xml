@@ -69,6 +69,12 @@
             android:fragment="com.android.settings.HardwareKeys"
             android:title="@string/hardware_keys_title" />
 
+        <PreferenceScreen
+            android:fragment="com.android.settings.LockscreenButtons"
+            android:key="lockscreen_buttons"
+            android:title="@string/lockscreen_buttons_title"
+            android:summary="@string/lockscreen_buttons_summary" />
+
         <CheckBoxPreference
             android:key="use_bln"
             android:title="@string/title_use_bln"
