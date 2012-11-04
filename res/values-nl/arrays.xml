@@ -277,4 +277,17 @@
     <item msgid="4042143101664725090">"Time-out"</item>
     <item msgid="7664124146786465092">"Mislukt"</item>
   </string-array>
+    <string-array name="wifi_countrycode_entries">
+        <item>Verenigde Staten</item>
+        <item>Canada, Taiwan</item>
+        <item>Duitsland</item>
+        <item>Europa</item>
+        <item>Japan, Rusland</item>
+        <item>Australië</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>Turkije</item>
+        <item>Singapore</item>
+        <item>Brazilië</item>
+    </string-array>
 </resources>

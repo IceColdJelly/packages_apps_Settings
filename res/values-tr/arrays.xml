@@ -257,4 +257,17 @@
     <string-array name="location_entries_gps_source">
         <item>Dahili GPS kullan</item>
     </string-array>
+    <string-array name="wifi_countrycode_entries">
+        <item>A.B.D.</item>
+        <item>Kanada, Tayvan</item>
+        <item>Almanya</item>
+        <item>Avrupa</item>
+        <item>Japonya, Rusya</item>
+        <item>Avustralya</item>
+        <item>Çin</item>
+        <item>Kore</item>
+        <item>Türkiye</item>
+        <item>Singapur</item>
+        <item>Brezilya</item>
+    </string-array>
 </resources>

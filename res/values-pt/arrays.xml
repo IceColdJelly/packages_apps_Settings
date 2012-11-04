@@ -277,4 +277,17 @@
     <item msgid="4042143101664725090">"Tempo limite"</item>
     <item msgid="7664124146786465092">"Malsucedida"</item>
   </string-array>
+  <string-array name="wifi_countrycode_entries">
+    <item>Estados Unidos</item>
+    <item>Canadá, Taiwan</item>
+    <item>Alemanha</item>
+    <item>Europa</item>
+    <item>Japão, Rússia</item>
+    <item>Austrália</item>
+    <item>China</item>
+    <item>Coréia</item>
+    <item>Turquia</item>
+    <item>Cingapura</item>
+    <item>Brasil</item>
+  </string-array>
 </resources>
