@@ -4304,29 +4304,6 @@
     <string name="lockscreen_buttons_playpause">Play/Pause music</string>
     <string name="lockscreen_buttons_toggle_sound">Toggle sound</string>
 
-    <!-- Hardware keys remap -->
-     <string name="hardware_keys_title">Hardware keys</string>
-     <string name="hardware_keys_bindings_title">Key bindings</string>
-     <string name="hardware_keys_enable_custom_title">Enable custom bindings</string>
-     <string name="hardware_keys_home_long_press_title">Home long press action</string>
-     <string name="hardware_keys_menu_press_title">Menu key action</string>
-     <string name="hardware_keys_menu_long_press_title">Menu long press action</string>
-     <string name="hardware_keys_assist_press_title">Search key action</string>
-     <string name="hardware_keys_assist_long_press_title">Search long press action</string>
-     <string name="hardware_keys_app_switch_press_title">App-switch key action</string>
-     <string name="hardware_keys_app_switch_long_press_title">App-switch long press action</string>
-     <string name="hardware_keys_show_overflow_title">Show action overflow</string>
-     <string name="hardware_keys_show_overflow_summary">Displays the action overflow button within app interface</string>
-     <string name="hardware_keys_show_overflow_toast">Apps may not update until they are restarted</string>
-     <string name="hardware_keys_action_nothing">No action</string>
-     <string name="hardware_keys_action_menu">Open/close menu</string>
-     <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
-     <string name="hardware_keys_action_search">Search assistant</string>
-     <string name="hardware_keys_action_voice_search">Voice search</string>
-     <string name="hardware_keys_action_in_app_search">In-app search</string>
-
-    <string name="additional_options_title">Additional options</string>
-
     <!-- Increasing ring -->
     <string name="increasing_ring_title">Ascending ringtone</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
